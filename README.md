@@ -44,3 +44,18 @@
 При выходе из приложения автоматически будут сохранены все имеющиеся на текщий момент данные в файл *db.csv*
 
 # Print screens 
+1. Print all notes
+![Print all notes](https://user-images.githubusercontent.com/36072345/224277261-ae969310-09d5-4d6a-848e-2697a36851ed.JPG)
+
+2. Adding new note
+![Adding new note](https://user-images.githubusercontent.com/36072345/224277359-2cbad780-a09f-4b0a-bc60-65fd2a47f631.JPG)
+
+3. Note editing
+![Note edit](https://user-images.githubusercontent.com/36072345/224277474-322e72e0-bfef-4b51-9740-37911f73a438.JPG)
+
+4. Note removing
+![note remove](https://user-images.githubusercontent.com/36072345/224277569-6859e169-89c9-4ca8-b1dd-5e06ce4eb1dd.JPG)
+
+5. Exit and save
+![exit and save](https://user-images.githubusercontent.com/36072345/224277660-acd51ec7-7367-4943-a721-5c2bb6dc43f2.JPG)
+
